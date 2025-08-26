@@ -44,6 +44,7 @@ Pandas & Numpy – BMI and data processing
  You can now view your Streamlit app in your browser.
 
   Local URL: http://localhost:8502
+  
   Network URL: http://192.168.29.241:8502
 
 📜 License
