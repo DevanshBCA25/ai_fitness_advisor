@@ -41,6 +41,11 @@ Pandas & Numpy – BMI and data processing
 
 🧘 Holistic Wellness – Combining physical fitness with mental health guidance.
 
+ You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502
+  Network URL: http://192.168.29.241:8502
+
 📜 License
 
 This project is released under the MIT License – open for use, learning, and contributions.
